@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.watson.developer_cloud:java-wrapper:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-wrapper/1.0.1/ab8422236b6781bae7e6c887cb9b7194ee10090f/java-wrapper-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-wrapper/1.0.1/c4a7d6ec3421d8469cff38833fa19a9017bb2a36/java-wrapper-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
